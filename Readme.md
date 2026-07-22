@@ -19,7 +19,9 @@ Currently there are 6 Functionalities present in this application.
 - <b> Clear Screen </b>
 
 ### Demo :
-<!-- <img src="Demo.gif" alt="this slowpoke moves"  width="780" height = "480"> -->
+to activate the guesture env- venv\Scripts\activate
+to install the requriements- pip install -r requirements.txt
+to run the main - python main.py
 
 ### Main Libs Used :
 - OpenCV lib (for image processing and drawing)
